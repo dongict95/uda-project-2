@@ -1,2 +1,2 @@
 # Link Elastic Beanstalk
-http://uda-project-2-app-dongpv4-dev.us-east-1.elasticbeanstalk.com/
+http://uda-project-2-app-dongpv4-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://media.istockphoto.com/photos/cosmic-nebula-and-the-shining-stars-picture-id1183329518?s=612x612
